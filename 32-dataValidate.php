@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    
 <form action="32-dataValidate.php" method="post">
         nome de usuario<br> 
         <input type="text" name="username"><br>
